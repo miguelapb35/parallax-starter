@@ -2,8 +2,6 @@
 
 > The simplest possible Vue setup in a single HTML file
 
-> This template is Vue 2.x compatible. For Vue 1.x use this command: `vue init simple#1.0 my-project`
-
 > This template is Vue CLI 2.x compatible. To use it with Vue CLI 3.X, see [CLI docs](https://cli.vuejs.org/guide/creating-a-project.html#pulling-2-x-templates-legacy)
 
 ### Before You Start...
