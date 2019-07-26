@@ -1,8 +1,10 @@
-# vue-simple-boilerplate
+# parallax-starter
 
 > The simplest possible Vue setup in a single HTML file
 
-> This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init simple#1.0 my-project`
+> This template is Vue 2.x compatible. For Vue 1.x use this command: `vue init simple#1.0 my-project`
+
+> This template is Vue CLI 2.x compatible. To use it with Vue CLI 3.X, see [CLI docs](https://cli.vuejs.org/guide/creating-a-project.html#pulling-2-x-templates-legacy)
 
 ### Before You Start...
 
@@ -12,7 +14,7 @@ For advanced features such as asset compilation, hot-reload, lint-on-save, unit 
 
 ## Usage
 
-This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
+This is a project template for [vue-cli](https://github.com/vuejs/vue-cli) version 2.x.
 
 ``` bash
 $ npm install -g vue-cli                          # Install vue-cli if you haven't already
